@@ -5,6 +5,8 @@ public with sharing class AccountCounter {
             SELECT COUNT()
             FROM Account
         ];
+        
+        //this is a comment test
 
         return accountCount;
     }
