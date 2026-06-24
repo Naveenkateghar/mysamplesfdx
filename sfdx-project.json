@@ -1,8 +1,20 @@
 {
   "packageDirectories": [
     {
-      "path": "unpackaged",
+      "path": "sales",
       "default": true
+    },
+    {
+      "path": "service"
+    },
+    {
+      "path": "experience"
+    },
+    {
+      "path": "data-cloud"
+    },
+    {
+      "path": "platform-core"
     }
   ],
   "namespace": "",
